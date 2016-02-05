@@ -13,7 +13,7 @@ headers:
 info:
     name: Hashmi Mohammed
     # dob: 1980-01-01 # not mandatory
-    shortdesc: Cosmicventer
+    shortdesc: Cosmicventer <3
     email: example@example.com
     phone: (313) - 867-5309 # not mandatory
     homepage: http://example.com/ # not mandatory
