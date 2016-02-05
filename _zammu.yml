@@ -1,6 +1,7 @@
 ---
 name: ResumeMan
 generator: middleman
+canonical_url: https://github.com/reefab/ResumeMan
 
 readme: README.md
 
