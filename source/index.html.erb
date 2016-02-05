@@ -236,7 +236,12 @@
                 </div><!--// bd -->
 
                 <div id="ft">
-                    <p><%= data.resume.info.name %> &mdash; <a class="donotexpand" href="mailto:<%= data.resume.info.email %>"><%= data.resume.info.email %></a> &mdash; <%= data.resume.info.phone  if data.resume.info.phone? %></p>
+                  <p><%= data.resume.info.name %> &mdash; <a class="donotexpand" href="mailto:<%= data.resume.info.email %>"><%= data.resume.info.email %></a>
+                    <% if data.resume.info.phone?  %>
+                      &mdash; <%= data.resume.info.phone%>
+                  <% end %>
+                </p>
+                <p class="zammu-badge">deployed by <a title='Automatic Deployment of Static Sites on Github Pages' href='https://zammu.in/'>https://zammu.in/</a></p>
                 </div><!--// footer -->
 
             </div><!-- // inner -->

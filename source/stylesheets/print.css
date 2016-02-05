@@ -21,3 +21,7 @@ a:not(.donotexpand):link:after, a:not(.donotexpand):visited:after {
 div.no-page-breaker {
     page-break-inside: avoid;
 }
+
+.zammu-badge{
+  display: none;
+}
