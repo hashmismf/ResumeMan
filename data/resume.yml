@@ -11,7 +11,7 @@ headers:
     projects: Projects
 
 info:
-    myname: Hashmi
+    name: Hashmi
     # dob: 1980-01-01 # not mandatory
     shortdesc: Cosmicventer <3
     email: example@example.com
