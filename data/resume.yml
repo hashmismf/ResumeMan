@@ -11,7 +11,7 @@ headers:
     projects: Projects
 
 info:
-    name: Full Name
+    name: Hashmi Mohammed
     # dob: 1980-01-01 # not mandatory
     shortdesc: Job Title
     email: example@example.com
@@ -41,17 +41,16 @@ languages:
       level: Fluent
 
 alphabetsoup:
-    - XHTML
+    - HTML
     - CSS
     - Javascript
 
     - Jquery
-    - PHP
-    - CVS / Subversion
+    - Javascript/coffeescript
+    - AngularJs
 
-    - OS X
-    - Windows XP/Vista
-    - Linux
+    - Ruby
+    
 
 links:
     - name: Link1
